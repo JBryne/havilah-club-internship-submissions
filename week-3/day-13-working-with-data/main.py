@@ -4,8 +4,8 @@
 
 import csv
 
-INPUT_FILE = "week-3\day-13-working-with-data\data\game_store.csv"
-OUTPUT_FILE = "week-3\day-13-working-with-data\data\game_store_filtered.csv"
+INPUT_FILE = "week-3/day-13-working-with-data/data/game_store.csv"
+OUTPUT_FILE = "week-3/day-13-working-with-data/data/game_store_filtered.csv"
 
 
 # ── Step 1: Load CSV ──────────────────────────────────────────────────────────
